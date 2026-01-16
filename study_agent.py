@@ -1,0 +1,1 @@
+from ICSE_8th_Physicsstudy_agent import generate_study_material
